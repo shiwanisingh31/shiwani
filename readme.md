@@ -16,3 +16,8 @@ Rock paper scissors game
 1. using vs code 
 2. clone it
 3. navigate to folder
+
+
+    ## screenshots
+   ![image](https://github.com/user-attachments/assets/563ef3f2-ed0f-407c-a87e-5e7bf0da4cf2)
+
